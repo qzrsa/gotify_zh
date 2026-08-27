@@ -1,0 +1,14 @@
+[
+  {
+    "原文": "`Deleted all messages from ${this.appStore.getByID(appId).name}`",
+    "翻译": "`已删除来自应用 ${this.appStore.getByID(appId).name} 的所有消息`"
+  },
+  {
+    "原文": "Deleted all messages",
+    "翻译": "已删除所有消息"
+  },
+  {
+    "原文": "Message sent to",
+    "翻译": "消息已发送至"
+  }
+]

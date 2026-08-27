@@ -1,0 +1,22 @@
+[
+  {
+    "原文": "Cannot delete plugin",
+    "翻译": "无法删除插件"
+  },
+  {
+    "原文": "All Plugins",
+    "翻译": "所有插件"
+  },
+  {
+    "原文": "unknown",
+    "翻译": "未知"
+  },
+  {
+    "原文": "Plugin config updated",
+    "翻译": "插件配置已更新"
+  },
+  {
+    "原文": "Plugin ${enabled ? 'enabled' : 'disabled'",
+    "翻译": "插件 ${enabled ? '已启用' : '已禁用'"
+  }
+]

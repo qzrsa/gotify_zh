@@ -1,0 +1,22 @@
+[
+  {
+    "原文": "Client deleted",
+    "翻译": "客户端已删除"
+  },
+  {
+    "原文": "Client updated",
+    "翻译": "客户端已更新"
+  },
+  {
+    "原文": "Client added",
+    "翻译": "客户端已添加"
+  },
+  {
+    "原文": "Canceled client elevation",
+    "翻译": "取消了客户提权"
+  },
+  {
+    "原文": "Client elevated",
+    "翻译": "客户权限提升"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "原文": "Elevation failed. Check your password.",
+    "翻译": "提权失败。请检查你的密码。"
+  },
+  {
+    "原文": "Waiting for OIDC sign-in",
+    "翻译": "等待 OIDC 登录"
+  },
+  {
+    "原文": "Complete sign-in in the new tab, then close it to continue.",
+    "翻译": "在新标签页完成登录，然后关闭它以继续。"
+  },
+  {
+    "原文": "Cancel OIDC Login",
+    "翻译": "取消 OIDC 登录"
+  },
+  {
+    "原文": "This action requires re-authentication.",
+    "翻译": "此操作需要重新认证。"
+  },
+  {
+    "原文": "\"Password",
+    "翻译": "\"密码"
+  },
+  {
+    "原文": "Elevate with Password",
+    "翻译": "使用密码提权"
+  },
+  {
+    "原文": "Elevate via OIDC",
+    "翻译": "通过 OIDC 提权"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "原文": "Applications",
+    "翻译": "应用"
+  },
+  {
+    "原文": "Create Application",
+    "翻译": "创建应用"
+  },
+  {
+    "原文": ">Name",
+    "翻译": ">名称"
+  },
+  {
+    "原文": ">Description",
+    "翻译": ">描述"
+  },
+  {
+    "原文": ">Priority",
+    "翻译": ">优先级"
+  },
+  {
+    "原文": "Last Used",
+    "翻译": "最后使用"
+  },
+  {
+    "原文": ">Created",
+    "翻译": ">已创建"
+  },
+  {
+    "原文": "Regenerate token for",
+    "翻译": "要为"
+  },
+  {
+    "原文": "? The current token will be invalidated.",
+    "翻译": "重新生成令牌吗？当前的令牌将失效。"
+  },
+  {
+    "原文": "Confirm Delete Image",
+    "翻译": "确认删除图标"
+  },
+  {
+    "原文": "Confirm Delete",
+    "翻译": "确认删除"
+  },
+  {
+    "原文": "'Delete '",
+    "翻译": "'删除'"
+  },
+  {
+    "原文": "Delete image for",
+    "翻译": "删除图标："
+  },
+  {
+    "原文": "Delete image",
+    "翻译": "删除图标"
+  }
+]

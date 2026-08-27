@@ -1,0 +1,30 @@
+[
+  {
+    "原文": "Update a Client",
+    "翻译": "更新客户端"
+  },
+  {
+    "原文": "A client manages messages, clients, applications and users (with admin permissions).",
+    "翻译": "客户端管理消息、客户端、应用程序和用户（需要管理员权限）。"
+  },
+  {
+    "原文": "Name *",
+    "翻译": "名称 *"
+  },
+  {
+    "原文": "Expires after inactivity (seconds, 0 = never)",
+    "翻译": "无操作后过期（秒，0 = 永不）"
+  },
+  {
+    "原文": ">Cancel",
+    "翻译": ">取消"
+  },
+  {
+    "原文": "name is required",
+    "翻译": "名称是必填项"
+  },
+  {
+    "原文": "  Update",
+    "翻译": "更新"
+  }
+]

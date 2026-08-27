@@ -1,0 +1,14 @@
+[
+  {
+    "原文": "WebSocket connection errored",
+    "翻译": "WebSocket 连接出错"
+  },
+  {
+    "原文": "WebSocket connection closed, trying again in 30 seconds.",
+    "翻译": "WebSocket 连接已断开，将在 30 秒后重试。"
+  },
+  {
+    "原文": "Could not authenticate with client token, logging out.",
+    "翻译": "客户端令牌验证失败，正在注销。"
+  }
+]

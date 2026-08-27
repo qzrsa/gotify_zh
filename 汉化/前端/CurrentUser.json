@@ -1,0 +1,38 @@
+[
+  {
+    "原文": "User Created. Logging in",
+    "翻译": "用户已创建。正在登录"
+  },
+  {
+    "原文": "No network connection or server unavailable.",
+    "翻译": "无网络连接或服务器不可用。"
+  },
+  {
+    "原文": "Register failed",
+    "翻译": "注册失败"
+  },
+  {
+    "原文": "'unknown'",
+    "翻译": "'未知'"
+  },
+  {
+    "原文": "unknown browser",
+    "翻译": "未知浏览器"
+  },
+  {
+    "原文": "A client named '${name}' was created for your session.",
+    "翻译": "名为 '${name}' 的客户端已为您的会话创建。"
+  },
+  {
+    "原文": "Login failed",
+    "翻译": "登录失败"
+  },
+  {
+    "原文": "Password changed",
+    "翻译": "密码已更改"
+  },
+  {
+    "原文": "Reconnect failed",
+    "翻译": "重新连接失败"
+  }
+]
